@@ -3,7 +3,7 @@ Dieses repository enthält die Python-Module zur geschriebenen Bachelorarbeit an
 
 
 # Verwendete Hardware
-1. Selbst modelliertes und gedrucktes Kokerei-Modell
+1. Selbst modelliertes und 3D-gedrucktes Kokerei-Modell
 2. Raspberry Pi Model 4 B
 3. Expander Board [RB-Explorer700](https://joy-it.net/de/products/RB-Explorer700)
 4. LED-Lichtstreifen WS2812B
