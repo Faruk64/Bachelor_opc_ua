@@ -96,7 +96,7 @@ class ua_server(object):
         self._dicTypes = dict()
 
         self._server = Server()
-        ep = "opc.tcp://0.0.0.0:{0}/{1}/".format(port, route)
+        ep = "opc.tcp://0.0.0.0:{0}/{1}/".format(port, route) # Put in IP-adress here
         self._server.set_endpoint(ep)
         print(ep)
 
