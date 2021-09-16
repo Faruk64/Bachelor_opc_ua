@@ -18,7 +18,7 @@ Nachfolgend ist die Beschaltung für dieses Projekt gezeigt. Zu beachten ist, da
 
 
 # Starten des Programms und Server
-1. Auf Zeile 99 in opcua_srv.py IP-Adresse eingeben
+1. Auf Zeile 99 in [opcua_srv.py](opcua_srv.py#L99) IP-Adresse eingeben
 2. Wenn nötig Zeilen 37 bis 40 in [Server.py](Server.py#L37-L40) umkonfigurieren
 3. Bauteile entsprechend am Raspberry Pi anschließen und mit Strom versorgen
 4. [Server.py](Server.py) auf dem Raspberry Pi mit dem Befehl <br>`sudo python3 Server.py`<br> im Terminal starten
